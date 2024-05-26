@@ -10,3 +10,11 @@
 - OCR: teseract
 - Vector DB: FASSI
 - GPT4 API
+
+![flowchart.jpeg](flowchart.jpeg)
+
+### Running the code:
+```text
+streamlit run app.py
+streamlit run login.py
+```
