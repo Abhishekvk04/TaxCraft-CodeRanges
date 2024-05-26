@@ -10,3 +10,5 @@
 - OCR: teseract
 - Vector DB: FASSI
 - GPT4 API
+
+![flowchart.jpeg](flowchart.jpeg)
