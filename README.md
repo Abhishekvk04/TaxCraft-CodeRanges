@@ -8,8 +8,8 @@
 - streamlit
 - LLMs: Gemini api
 - OCR: teseract
-- Vector DB: FASSI
-- GPT4 API
+- Vector DB: Choma
+- HuggingFace API
 
 ![flowchart.jpeg](flowchart.jpeg)
 
